@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: #20d020;
+}
+
+h2 {
+  margin: auto;
+  width: 100%;
+}
+
+canvas {
+  width: 64vw;
+  height: 48vw;
+  cursor: url("res/sight.png") 25 25, auto;
+  image-rendering: crisp-edges;
+}
+
+#assets {
+  display: none;
+}
+
